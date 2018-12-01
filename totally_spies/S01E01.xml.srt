@@ -48,7 +48,7 @@
 
 12
 00:00:48,080 --> 00:00:50,720
-Who is this Ricky Mathis chump, anyway?
+Who is this Ricky Mathis chump, anyway? (chump=>foolish person)
 
 13
 00:00:50,800 --> 00:00:53,280
@@ -75,7 +75,7 @@ pretty boy single on the shelf.
 18
 00:01:13,040 --> 00:01:16,640
 {\an8}CLOVER: Sammy, could I borrow
-your cashmere belly sweater tomorrow?
+your cashmere belly sweater tomorrow? (belly sweater)
 
 19
 00:01:16,720 --> 00:01:19,200
@@ -152,7 +152,7 @@ Is it me, or does Clover fall in love
 36
 00:02:04,840 --> 00:02:07,960
 more often than Mandy
-maxes out her credit card?
+maxes out her credit card? (does Clover fall in love often than Mandy maxes out her credit card?)
 
 37
 00:02:08,040 --> 00:02:11,760
@@ -188,7 +188,7 @@ Oh, yeah. That's right... The mall.
 00:02:28,280 --> 00:02:30,400
 Well, no big deal.
 
-45
+45 (***)
 00:02:30,480 --> 00:02:33,280
 I was only trying to do him a favor
 cos he's new around here.
@@ -209,7 +209,7 @@ a non-fat latte after school.
 49
 00:02:43,600 --> 00:02:47,520
 Besides, wouldn't you rather hang out
-with us than some dim-witted musician?
+with us than some dim-witted musician? (dim-witted=stupid, silly)
 
 50
 00:02:47,600 --> 00:02:52,000
